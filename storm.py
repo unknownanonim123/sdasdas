@@ -7,9 +7,10 @@ import random
 import threading
 import sys
 import ssl
+import os
 import datetime
 
-
+os.system("clear")
 
 G = '\033[32m'
 print(G + '   ██████╗██████╗ ██╗  ██╗██╗███╗  ██╗██╗  ██╗      ██████╗ ██████╗  █████╗  ██████╗        ')
